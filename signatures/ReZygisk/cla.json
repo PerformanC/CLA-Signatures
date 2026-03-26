@@ -1,3 +1,28 @@
 {
-   "signedContributors": []
+  "signedContributors": [
+    {
+      "name": "JasonGraceHoO",
+      "id": 220112422,
+      "comment_id": 4130690092,
+      "created_at": "2026-03-26T00:20:23Z",
+      "repoId": 815588503,
+      "pullRequestNo": 312
+    },
+    {
+      "name": "RainyXeon",
+      "id": 86668725,
+      "comment_id": 4130719968,
+      "created_at": "2026-03-26T00:28:49Z",
+      "repoId": 815588503,
+      "pullRequestNo": 312
+    },
+    {
+      "name": "miner7222",
+      "id": 16506343,
+      "comment_id": 4131628529,
+      "created_at": "2026-03-26T04:44:56Z",
+      "repoId": 815588503,
+      "pullRequestNo": 312
+    }
+  ]
 }
