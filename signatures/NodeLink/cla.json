@@ -79,6 +79,14 @@
       "created_at": "2026-08-08T03:26:24Z",
       "repoId": 614635504,
       "pullRequestNo": 219
+    },
+    {
+      "name": "Akinori107",
+      "id": 90612019,
+      "comment_id": 5227380430,
+      "created_at": "2026-08-08T17:55:41Z",
+      "repoId": 614635504,
+      "pullRequestNo": 220
     }
   ]
 }
